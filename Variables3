@@ -1,0 +1,33 @@
+ 1. Fill in the blanks with the correct variable type
+
+_________String___________ ThePresident = "Trump";
+
+___________int_________ eggsInCarton = 12;
+
+2. Create (declare) and initialize these variables:
+
+   int favoriteSeaCreature;
+   int timeIWokeUp;
+    int numberOfSisters;
+  int  whatIAteForLunch;
+    int myHairColor;
+    int myAge;
+   int colorsOfTheRainbow;
+   int numberOfVariableTypesIKnow;
+   int momsFavoriteSong;
+
+3. Declare and initialize these variables:
+
+Tortoise=move(100);    //so that the tortoise moves 100 pixels
+
+
+JOptionPane.showMessageDialog(null, YOLO);    //so that the pop-up says “YOLO”
+
+
+for(int i = 0; i < 65 = bananas; i+1) {}
+    //so that the for loop repeats 65 times
+
+
+if(animal.equals(“duck”)) {    //so that the code prints “quack”
+    System.out.println(“quack”);
+}

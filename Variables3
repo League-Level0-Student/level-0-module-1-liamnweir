@@ -150,8 +150,21 @@ the animal they type, print “I don’t know that animal.”
 
 
 
-JOptionPane.showInputDialog("What is your favorite animal?");
-
+String Answer=("What is your favorite animal?");
+if(Answer.equals(cat)){
+JOptionPane.showMessageDialog("Cats go meow");
+}
+if(Answer.equals(dog)){
+JOptionPane.showMessageDialog("dogs go woof");
+}
+if(Answer.equals(bird)){
+JOptionPane.showMessageDialog("Birds go tweet");
+}
+if(Answer.equals(pizza)){
+JOptionPane.showMessageDialog("Pizzas go eat me");
+}
+else
+JOptionPane.showMessageDialog("I don't know that animal");
 
 
 

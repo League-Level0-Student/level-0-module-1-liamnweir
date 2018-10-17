@@ -40,5 +40,7 @@ else {
 }
 JOptionPane.showMessageDialog(null, "Your total score is "+score);
 
+
+
 }}
 

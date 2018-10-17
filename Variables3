@@ -1,20 +1,20 @@
  1. Fill in the blanks with the correct variable type
 
-_________String___________ ThePresident = "Trump";
+String ThePresident = "Trump";
 
-___________int_________ eggsInCarton = 12;
+int eggsInCarton = 12;
 
 2. Create (declare) and initialize these variables:
 
-   int favoriteSeaCreature;
-   int timeIWokeUp;
-    int numberOfSisters;
-  int  whatIAteForLunch;
-    int myHairColor;
-    int myAge;
-   int colorsOfTheRainbow;
-   int numberOfVariableTypesIKnow;
-   int momsFavoriteSong;
+   int favoriteSeaCreature = 0;
+   int timeIWokeUp = 0;
+    int numberOfSisters = 0;
+  int  whatIAteForLunch = 0;
+    int myHairColor = 0;
+    int myAge = 0;
+   int colorsOfTheRainbow = 0;
+   int numberOfVariableTypesIKnow = 0;
+   int momsFavoriteSong= 0;
 
 3. Declare and initialize these variables:
 
@@ -31,3 +31,133 @@ for(int i = 0; i < 65 = bananas; i+1) {}
 if(animal.equals(“duck”)) {    //so that the code prints “quack”
     System.out.println(“quack”);
 }
+
+
+
+1. Fill in the blanks
+int favoriteHobby=0; 
+favoriteHobby = "programming";
+int numberOfToes=0; 
+numberOfToes = 10;
+degreesInARightAngle = 0; 
+degreesInARightAngle = 90;
+int myAge=0; 
+myAge = 13;
+String java
+ = "Java";
+double 
+____________________ = 3.14159;
+2. Initialize these variables...
+    String whatIWantToBeWhenIGrowUp=Programer;
+    int facebookFriends=0;
+    String myBirthday=9/10;
+    int sidesInATriangle=3;
+3. Declare and initialize variables for...
+    ­int whatyougotforyourbirthday=Presents;
+    int­ thelastmealyouate=Chicken;
+    int whattimeyougotobed=9:30;
+    int­ howmanyRobotprogramsyouhavewritten=3;
+
+
+
+
+
+
+1. Complete the for loop below so that it prints out the numbers 1­10.
+for(int i = 0; i < 1; i+1) {
+		System.out.println("110");
+		             ; 
+            ; 
+            )
+{ 
+}
+2. Complete the for loop below so that it counts down and prints out 75 to 50.
+for(int i = 0; i < 15; i+1) {
+system.out.println("75 to 50");              ; 
+            ; 
+            )
+{ 
+}
+3. Describe briefly what each part of the for loop does: 
+for( an int calls i to become the interger.
+; b   The variable is then given a number it equals, so you know when to stop your command.
+
+; c )  Then the variable gets changed until stopped upon because it went over the < number. Then, the command will stop.
+
+
+
+
+
+
+
+
+
+
+public class ElTortuga{ 
+      static int tortoiseLocation;
+      public static void main(String[] args){ 
+          tortoiseLocation = Tortoise.getLocation();
+          if (tortoiseLocation < 0) 
+                System.out.println("El Tortuga se ha ido!");
+                }
+                }
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+   1. Declare a string variable and initialize it to “yes”. 
+If the string is equal to yes, print “happy” otherwise print
+“sad”. 
+Then print "Wednesday".
+What happense if you set the string variable to "no"?
+
+string answer="yes";
+if answer=yes{
+system.out.println("happy");
+else
+system.out.println("sad");
+
+It would print sad.
+
+
+
+
+ 
+2. Declare an int variable to hold your age and initialize its value. 
+If you are under 20, print “It’s so great being
+young”, otherwise print “Don’t you wish you were young!”
+
+int MyAge=13;
+system.out.println(("It's so great being young!");
+
+
+
+
+
+
+3. Make an input pop­up to ask the user which animal they like. 
+If the user types “dog”, print “Dogs go woof”,
+otherwise if they type “cat”, print “Cats go meow” ....and so on with other animals. 
+If you do not have code for
+the animal they type, print “I don’t know that animal.”
+
+
+
+JOptionPane.showInputDialog("What is your favorite animal?");
+
+
+
+
+
+
+
+
+
+
